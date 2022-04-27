@@ -3,6 +3,7 @@
 新加坡人口数据
 
 总人口
+人口
 
 You can use the [editor on GitHub](https://github.com/SHJShiny/SHJShiny.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
